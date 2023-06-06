@@ -6,6 +6,7 @@
 - Java 11
 - SpringBoot 2.6.8
 - Base de datos en Memoria (H2)
+- Gestor de dependencias: Maven
 - Autenticación con JWT (spring-security-oauth2)
 - Persistencia con JPA: Hibernate
 
